@@ -14,7 +14,7 @@ To Run the file for Part 1 use:
 To run the file for Part 2 use:
 `python3 part2_house_value_regression.py`
 
-# Ackowledgements
+# Acknowledgements
 Antione Cully, Marek Rei and Josiah Wang for guidance throughout the project
 
 Rishil Patel, Gowoon Kim and Hussain Kurabadwala for contributions to the code for both Part 1 and Part 2 tasks.
