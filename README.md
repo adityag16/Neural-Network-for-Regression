@@ -1,4 +1,4 @@
-# Neural-Nework-for-Regression
+# Neural-Network-for-Regression
 
 Use terminal commands to run the two Python files.
 
